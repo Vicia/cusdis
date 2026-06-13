@@ -27,7 +27,8 @@
   },
   "prettier": "@egoist/prettier-config",
   "resolutions": {
-  "node-expat": "2.4.1"
+    "node-expat": "2.4.1",
+    "postcss": "8.4.49"
   },
   "dependencies": {
     "@emotion/react": "^11.10.4",
